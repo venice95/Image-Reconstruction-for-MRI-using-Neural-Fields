@@ -1,1 +1,1 @@
-# Image-Reconstruction-for-MRI-using-Neural-Fields
+# Image Reconstruction for MRI using Neural Fields
